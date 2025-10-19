@@ -12,6 +12,8 @@ Model Building – Use machine learning algorithms (like Linear Regression, Rand
 Evaluation – Evaluate models using metrics like Mean Squared Error (MSE) and R² score.
 
 Prediction – Predict wine quantity based on input features.
+<img width="1026" height="769" alt="image" src="https://github.com/user-attachments/assets/85e26176-5e3d-466d-ab84-12b68a427e17" />
+
 
 # 📈 Outcome
 
